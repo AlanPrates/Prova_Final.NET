@@ -51,7 +51,7 @@
 |-----------------------------|------------------------------------|----------------|-----------------|
 | Atualizar Pacotes           | Alan Prates, Gabriel Teles         | 8 horas        | 8 horas         |
 | Separar Camadas             | Daniel Penedo, Giuseppe Mota       | 12 horas       | 12 horas        |
-| Refatorar Entidades         | Alan Prates dos Santos, Luann Firme| 10 horas       | 10 horas        |
+| Refatorar Entidades         | Alan Prates, Luann Firme           | 10 horas       | 10 horas        |
 | Refatorar Controllers       | Giuseppe Mota, Luann Firme         | 14 horas       | 14 horas        |
 | Adicionar Testes Unitários  | Gabriel Teles                      | 8 horas        | 8 horas         |
 | Adicionar Front (Angular 17)| Luann Firme, Gabriel Teles         | 8 horas        | 8 horas         |
